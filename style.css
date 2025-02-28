@@ -114,6 +114,7 @@ body {
     font-weight: 600;
 }
 
-.register-link p a:hover{
+.register-link a{
+    color: #fff;
     text-decoration: underline;
 }
